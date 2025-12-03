@@ -8,6 +8,7 @@ Documentation.pdf – Full project explanation (overview, configuration, testing
 Screenshots – Images of topology and device configurations
 
 ⚙️ Features
+
 Three VLANs for HR, IT, and Finance
 Router-on-a-Stick inter-VLAN routing
 DHCP configuration for automatic IP allocation
@@ -16,10 +17,12 @@ Switch trunking and VLAN access port configuration
 Full device communication across VLANs
 
 🚀 Future Enhancements
+
 Firewall implementation
 VPN setup for remote access
 
 🔗 How to Use
+
 Open Secure_Network.pkt in Cisco Packet Tracer.
 Check VLAN configurations and inter-VLAN routing.
 Test connectivity using the ping command.
